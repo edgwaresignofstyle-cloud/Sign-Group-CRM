@@ -1,0 +1,5 @@
+{
+  "name": "Sign Group CRM",
+  "description": "A comprehensive CRM application for Sign Group to manage client jobs, track production stages, handle finances, and visualize mock-ups from start to finish.",
+  "requestFramePermissions": []
+}
